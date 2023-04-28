@@ -1,0 +1,60 @@
+{
+  "json object": {
+    "data": {
+	  
+      "admob banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob native": "ca-app-pub-3940256099942544/2247696110",
+      "admob interstitial": "ca-app-pub-3940256099942544/1033173712",
+	  
+      "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  
+	  
+      "start Activity Inter": "admob",
+      "start Activity Native": "admob",
+	  
+      "main Activity Inter": "admob",
+      "main Activity Banner": "admob",
+	  
+      "web Activity Banner": "admob",
+	  
+      "clicks to stop showing banner ad": 100,
+      "time unit banner": "hour",
+      "time banner": 1,
+	  
+      "clicks to stop showing native ad": 100,
+      "time unit native": "second",
+      "time native": 40,
+	
+	 
+	 "show web view 1": true,	 
+	 "show web view 2": true,	 
+	 "show web view 3": true,
+	 
+	 "web view text 1": "facebook.com",
+	 "web view text 2": "instagram.com",
+	 "web view text 3": "wikipedia.org",
+	 
+	 "web view url 1": "https://web.facebook.com/",
+	 "web view url 2": "https://www.instagram.com/",
+	 "web view url 3": "https://www.wikipedia.org/",
+	 
+	 
+      "show CPA 1": true,
+      "CPA image 1": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
+      "CPA URL 1": "com.outfit7.talkingtomgoldrun",
+	  "CPA text 1": "first ad",
+	  
+      "show CPA 2": true,
+      "CPA image 2": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
+      "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
+	  "CPA text 2": "second ad",
+	  
+      "is app suspended": false,
+      "update title": "A new update for this app",
+      "update message": "Update this app because this version has some isues",
+      "update URL": "com.innersloth.spacemafia"
+    }
+  }
+}
