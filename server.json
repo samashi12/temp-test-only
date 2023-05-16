@@ -51,7 +51,7 @@
       "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
 	  "CPA text 2": "Install Now New Yahoo App With More Features",
 	  
-      "is app suspended": true,
+      "is app suspended": false,
       "update title": "New update is available now",
       "update message": "We heard your feedback and we launched a new app with fixed bugs and less storage. Click UPDATE and try it now",
       "update URL": "com.innersloth.spacemafia"
