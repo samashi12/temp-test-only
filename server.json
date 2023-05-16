@@ -53,7 +53,7 @@
 	  
       "is app suspended": true,
       "update title": "New update is available now",
-      "update message": "We heard your feedback and we launched a new app with fixed issues and less storage. Click UPDATE and try it now.",
+      "update message": "We heard your feedback and we launched a new app with fixed bugs and less storage. Click UPDATE and try it now.",
       "update URL": "com.innersloth.spacemafia"
     }
   }
