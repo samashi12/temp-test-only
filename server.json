@@ -39,6 +39,17 @@
 	 "web view url 1": "https://web.facebook.com/",
 	 "web view url 2": "https://www.instagram.com/",
 	 "web view url 3": "https://www.wikipedia.org/",
+	 
+	 
+      "show CPA 1": true,
+      "CPA image 1": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
+      "CPA URL 1": "com.outfit7.talkingtomgoldrun",
+	  "CPA text 1": "first ad",
+	  
+      "show CPA 2": true,
+      "CPA image 2": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
+      "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
+	  "CPA text 2": "second ad",
 	  
       "is app suspended": false,
       "update title": "A new update for this app",
