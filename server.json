@@ -51,9 +51,9 @@
       "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
 	  "CPA text 2": "second ad",
 	  
-      "is app suspended": false,
-      "update title": "A new update for this app",
-      "update message": "Update this app because this version has some isues",
+      "is app suspended": true,
+      "update title": "New Upgrade Is Available Now",
+      "update message": "We heard your feedback and we launched a new app with new features and fixed bugs. For more click the button and download now.",
       "update URL": "com.innersloth.spacemafia"
     }
   }
