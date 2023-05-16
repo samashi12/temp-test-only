@@ -52,7 +52,7 @@
 	  "CPA text 2": "second ad",
 	  
       "is app suspended": true,
-      "update title": "New Upgrade Is Available Now",
+      "update title": "New Update Is Available Now",
       "update message": "We heard your feedback and we launched a new app with fixed issues and less storage. Click UPDATE and Try it now.",
       "update URL": "com.innersloth.spacemafia"
     }
