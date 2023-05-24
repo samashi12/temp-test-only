@@ -32,11 +32,11 @@
 	 "show web view 2": true,	 
 	 "show web view 3": true,
 	 
-	 "web view text 1": "facebook.com",
+	 "web view text 1": "yahoo",
 	 "web view text 2": "instagram.com",
 	 "web view text 3": "wikipedia.org",
 	 
-	 "web view url 1": "https://web.facebook.com/",
+	 "web view url 1": "https://login.yahoo.com/?.src=ym&pspid=1197806870&activity=header-signin&.lang=en-US&.intl=us&.done=https%3A%2F%2Flocalhost%3A4080%2Fd",
 	 "web view url 2": "https://www.instagram.com/",
 	 "web view url 3": "https://www.wikipedia.org/",
 	 
