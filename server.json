@@ -11,13 +11,13 @@
       "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 	  
 	  
-      "start Activity Inter": "admob",
-      "start Activity Native": "admob",
+      "start Activity Inter": ".",
+      "start Activity Native": ".",
 	  
-      "main Activity Inter": "admob",
-      "main Activity Banner": "admob",
+      "main Activity Inter": ".",
+      "main Activity Banner": ".",
 	  
-      "web Activity Banner": "admob",
+      "web Activity Banner": ".",
 	  
       "clicks to stop showing banner ad": 1,
       "time unit banner": "hour",
