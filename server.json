@@ -41,12 +41,12 @@
 	 "web view url 3": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1642771358&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d9d842e66-ae3e-e765-169e-cda95f7eda32&id=292841&aadredir=1&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015",
 	 
 	 
-      "show CPA 1": false,
+      "show CPA 1": true,
       "CPA image 1": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL 1": "com.outfit7.talkingtomgoldrun",
 	  "CPA text 1": "first ad",
 	  
-      "show CPA 2": false,
+      "show CPA 2": true,
       "CPA image 2": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
 	  "CPA text 2": "second ad",
